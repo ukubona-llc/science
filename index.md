@@ -44,6 +44,7 @@ AI companies have every incentive to keep evangelizing about the medical miracle
 
 References
 1. [AI’s Real Gift to Science](https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/). The Atlantic. October 4, 2026, 11:56 AM ET
+2. Ukubona LLC's Scale-Aware Perception-Agency Temporal Alignment. October 5, 2026 2:58 PM [SAPATA](https://ukubona-llc.github.io/trial/)
 
 
 # ii. Gemma-4-31-qat
