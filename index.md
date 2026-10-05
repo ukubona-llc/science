@@ -1,11 +1,11 @@
-# I. Ukubona
+# I. [Ukubona](https://j-digital-twin.onrender.com/login)
 
 ```
-I. Engine (eg Harmonic Series), Data, Experiential, Prelingual, Utterance/Music
-II. Sample (eg 12TET, Circle-of-Fifths), Language, Next-Token, Prediction, Error
-III. Insertions, Deletions, Translocations, Permutations, Combinations 
-IV. Consonance, Dissonance: Tension, Extension, Alteration, Rootless (and 1st-Inversion) Sonorites 
-V. Graveyard, Survivors, Culture {Stank-Face, Embodiment}, Memory, Institutions -> I'. Antrhopoce Engine -> II' -> ... 
+I. Engine (eg Harmonic Series), Data, Experiential, Prelingual, Utterance {Music}
+II. Sample (eg 12TET, Circle-of-Fifths), Language, Next-Token, Prediction, Error {Statistics}
+III. Insertions, Deletions, Translocations, Permutations, Combinations {Adaptation}
+IV. Consonance, Dissonance: Tension, Extension, Alteration, Rootless (and 1st-Inversion) Sonorites {Regulation}
+V. Graveyard, Survivors, Culture {Stank-Face, Embodiment}, Memory, Institutions -> I'. Antrhopoce Engine -> II' -> ... {Technology}
 ```
 
 Dario Amodei, the chief executive of Anthropic, has often said that AI will cure most diseases in the next 10 years. Late last month, he claimed that his company had taken a first step toward that future: Claude had, in less than 24 hours, discovered a new “enzyme system” that the company says resembles CRISPR, a gene-editing tool currently curing people of diseases. While announcing the discovery, Anthropic hinted that this was the type of finding that revolutionizes medicine and quoted a gene-editing pioneer who called it “genuinely intriguing.”
